@@ -1,0 +1,14 @@
+{
+    "go.enableCodeLens": {
+    "references": true,
+    },
+    "go.gopath": "/home/lokialice/WORKSPACE/GO_WORKSPACE",
+    "go.toolsGopath": "/home/lokialice/WORKSPACE/GO_WORKSPACE",
+    "go.useLanguageServer": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.autocompleteUnimportedPackages": true,
+    "gopls": {
+        "completeUnimported": true
+    }    
+}
